@@ -66,7 +66,7 @@
 
 AV女優判定AI provides an AI-powered service that identifies adult video actresses from package images or screenshots with high accuracy. The Japanese website offers a searchable database of performers, leveraging machine learning to match visual inputs to actress names. It includes affiliate links and adult content warnings, targeting users over 18. The service aims to streamline content management and fan identification in the adult entertainment industry.
 
-**Areas:** Adult · AI · Video · Japanese · Entertainment
+**Areas:** Adult · Artificial Intelligence · Video · Japanese · Entertainment
 
 ## AV女優判定AI on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai For Av Com Domain Security](https://apis.io/security/ai-for-av-com/ai-for-av-com-domain-security/)
+- [AV女優判定AI Domain Security](https://apis.io/security/ai-for-av-com/ai-for-av-com-domain-security/)
 
 ## Where to find this API
 
@@ -91,25 +91,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 6.0** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 6.4** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -127,8 +127,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 3.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai-for-av-com/](https://apis.io/providers/ai-for-av-com/).
 
